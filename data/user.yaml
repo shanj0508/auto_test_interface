@@ -1,0 +1,15 @@
+-
+  data:
+    loginName: 'admin',
+    loginPassword: 'e8UK2S+2Y5qlN6R4A6KjuguLgwwts+oRe9t73w+PT9erNQfXc79C+ZbC4IXhPjJcwetxUypXuUW32PCIe9aaxQKF+wkBJJs000/Lkeg3Be2MvXeGgQxxOWGBu+jFBkeB0T7/UWAK7NJsKspqBS/H67wol9Znb3nqkGqBXsp73ok='
+  resflag: True
+-
+  data:
+    loginName: 'zl',
+    loginPassword: 'e8UK2S+2Y5qlN6R4A6KjuguLgwwts+oRe9t73w+PT9erNQfXc79C+ZbC4IXhPjJcwetxUypXuUW32PCIe9aaxQKF+wkBJJs000/Lkeg3Be2MvXeGgQxxOWGBu+jFBkeB0T7/UWAK7NJsKspqBS/H67wol9Znb3nqkGqBXsp73ok='
+  resflag: True
+-
+  data:
+    loginName: 'admin',
+    loginPassword: '123456'
+  resflag: False
